@@ -1,0 +1,7 @@
+pdf2image
+pytesseract
+gradio
+transformers
+torch
+Pillow
+PyMuPDF
