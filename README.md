@@ -1,5 +1,5 @@
 # PDF-OCR-and-Summerizer
-A python app that scans pdf and give Summary of that pdf.
+A python app that scans pdf and give Summary of pdf.
 ---
 ## Feautures :
 - **Scanning pdf** [multipage support] (using OCR)
